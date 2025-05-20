@@ -34,8 +34,8 @@ export default function Card({ data }) {
             Demo
           </a>
         )}
-        {data.source && (
-          <a href={data.source} className={styles.link} target="_blank" rel="noopener noreferrer">
+        {data.Source && (
+          <a href={data.Source} className={styles.link} target="_blank" rel="noopener noreferrer">
             Source
           </a>
         )}

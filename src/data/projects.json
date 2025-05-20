@@ -4,7 +4,7 @@
     "imageSrc": "projects/imp.jpg",
     "description": "Orchestrated an LLM-driven pipeline using RAG architecture to enable natural language querying over multimedia transcripts (Text, Audio, Video), enhancing user interaction by 40%. Curated and indexed audio-visual content using FAISS and HuggingFace Longform Transformers, optimizing retrieval accuracy with a Top-k Precision of 92%. Integrated MLOps tools MLflow, and FastAPI for scalable deployment, reducing model latency by 30%. Implemented automated Argo CI/CD pipelines with Docker Compose and GitHub Actions, reducing deployment time by 70%.",
     "skills": ["Python", "LLM", "RAG", "FAISS", "HuggingFace Transformers", "MLflow", "FastAPI", "Argo CI/CD", "Docker Compose", "GitHub Actions", "NLP", "MLOps"],
-    "demo":""
+    "demo":"https://github.com/Akkey01/MLops-Final-Project"
   },
   {
     "title": "NYC MTA Urban Transit Reliability and Demand Forecasting",

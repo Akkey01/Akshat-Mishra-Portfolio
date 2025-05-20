@@ -46,6 +46,7 @@ export default function Carousel({ type, data }) {
           {/* {console.log(data)} */}
           {data.map((item, id) => {
             // {console.log(`${item.title} id is ${id}`)}
+            console.log(item);
             return <Card key={id} data={item} />;
           })}
         </div>
