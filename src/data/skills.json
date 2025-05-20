@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png",
+    "category": "Programming Languages"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "skills/java.png",
+    "category": "Programming Languages"
+  },  
+  {
+    "title": "SQL",
+    "imageSrc": "skills/mysql.png",
+    "category": "Database Management"
+  },
+  {
+    "title": "PostgreSQL",
+    "imageSrc": "skills/postgresql.png",
+    "category": "Database Management"
+  },
+  {
+    "title": "Numpy",
+    "imageSrc": "skills/numpy.png",
+    "category": "Data Science"
+  },
+  {
+    "title": "Pandas",
+    "imageSrc": "skills/pandas.jpeg",
+    "category": "Data Science"
+  },
+  {
+    "title": "Machine Learning",
+    "imageSrc": "skills/machine_learning.png",
+    "category": "Data Science"
+  },
+  {
+    "title": "Django",
+    "imageSrc": "skills/django.png",
+    "category": "Backend Development"
+  },
+  {
+    "title": "AWS",
+    "imageSrc": "skills/aws.png",
+    "category": "Cloud Computing"
+  },
+  {
+    "title": "Azure DevOps",
+    "imageSrc": "skills/azure_devops.png",
+    "category": "DevOps"
+  },
+  {
+    "title": "Git",
+    "imageSrc": "skills/git.png",
+    "category": "DevOps"
+  },
+  {
+    "title": "Docker",
+    "imageSrc": "skills/docker.png",
+    "category": "DevOps"
+  },
+  {
+    "title": "GitHub",
+    "imageSrc": "skills/github.png",
+    "category": "DevOps"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png",
+    "category": "Frontend Development"
+  },
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png",
+    "category": "Frontend Development"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png",
+    "category": "Frontend Development"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png",
+    "category": "Frontend Development"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png",
+    "category": "Frontend Development"
+  }
+]

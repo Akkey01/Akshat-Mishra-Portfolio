@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Intelligent Multimedia Processing (IMP) for Enterprises",
+    "imageSrc": "projects/imp.jpg",
+    "description": "Orchestrated an LLM-driven pipeline using RAG architecture to enable natural language querying over multimedia transcripts (Text, Audio, Video), enhancing user interaction by 40%. Curated and indexed audio-visual content using FAISS and HuggingFace Longform Transformers, optimizing retrieval accuracy with a Top-k Precision of 92%. Integrated MLOps tools MLflow, and FastAPI for scalable deployment, reducing model latency by 30%. Implemented automated Argo CI/CD pipelines with Docker Compose and GitHub Actions, reducing deployment time by 70%.",
+    "skills": ["Python", "LLM", "RAG", "FAISS", "HuggingFace Transformers", "MLflow", "FastAPI", "Argo CI/CD", "Docker Compose", "GitHub Actions", "NLP", "MLOps"],
+    "demo":""
+  },
+  {
+    "title": "NYC MTA Urban Transit Reliability and Demand Forecasting",
+    "imageSrc": "projects/project.png",
+    "description": "Formulated a scalable Spark-based ingestion workflow to aggregate and cleanse 30 GB of subway ridership data, streamlining database maintenance. Evaluated ridership metrics using time-series aggregations and calendar-heatmap visualizations. Programmed ETL pipelines and PySpark jobs to automate cleaning-validation, reducing manual processing time by 30%. Integrated station metadata with ridership counts into unified dashboards for data-driven resource-allocation.",
+    "skills": ["Python", "Spark", "PySpark", "ETL", "Time Series Analysis", "Data Visualization", "SQL"],
+    "Source": "https://github.com/Akkey01/CSGY-6513-Big-Data-Finals-Project"
+  },
+  {
+    "title": "Adversarial Attacks on ImageNet Classifiers",
+    "imageSrc": "projects/project.png",
+    "description": "Explored adversarial attacks (FGSM, PGD, Patch-based) against a pre-trained ResNet-34 classifier on ImageNet-1K. Implemented and evaluated these attacks to demonstrate performance degradation of deep networks and studied the transferability of adversarial examples to DenseNet-121.",
+    "skills": ["Python", "PyTorch", "torchvision", "NumPy", "Matplotlib", "Deep Learning", "Adversarial Attacks", "FGSM", "PGD", "ResNet", "DenseNet", "ImageNet"],
+    "Source": "https://github.com/Akkey01/Project3DL"
+  },
+  {
+    "title": "Fine-tuning RoBERTa with LoRA for Text Classification",
+    "imageSrc": "projects/project.png",
+    "description": "Fine-tuned RoBERTa, an open-source LLM, using Low-Rank Adaptation (LoRA) for a text classification task, managing <1M trainable parameters. Achieved rank 109 in a Kaggle competition by optimizing model hyperparameters and training procedures.",
+    "skills": ["Python", "PyTorch", "HuggingFace Transformers", "RoBERTa", "LoRA", "LLM", "NLP", "Text Classification", "Kaggle"],
+    "Source": "https://github.com/Akkey01/DeepLearningProject2-NYU"
+  },
+  {
+    "title": "Modified ResNet for CIFAR-10 Classification (<5M Params)",
+    "imageSrc": "projects/project.png",
+    "description": "Trained and tested a modified ResNet architecture with fewer than 5 million parameters on the CIFAR-10 image classification dataset. Achieved rank 21 in a Kaggle competition by implementing effective training strategies and test-time augmentation.",
+    "skills": ["Python", "PyTorch", "ResNet", "Deep Learning", "Image Classification", "CIFAR-10", "Kaggle", "Test-Time Augmentation"],
+    "Source": "https://github.com/Akkey01/DeepLearningProject1-NYU"
+  },
+  {
+    "title": "British Airways Customer Booking Analysis",
+    "imageSrc": "projects/project.png",
+    "description": "Analyzed 500,000+ customer booking records to identify trends in cancellations, rebookings, and seasonal demand. Designed predictive models using Python (Pandas, NumPy, Scikit-Learn) to forecast customer behavior, reducing over-booking errors by 20%. Implemented SQL-based ETL pipelines, improving data processing speed by 30%. Constructed interactive Tableau dashboards for real-time monitoring.",
+    "skills": ["Python", "Pandas", "NumPy", "Scikit-Learn", "SQL", "ETL", "Tableau", "Predictive Modeling"],
+    "Source": "https://github.com/Akkey01/British-Airways-Customer-Booking-Analysis"
+  },
+  {
+    "title": "Detection of GAN Generated Images",
+    "imageSrc": "projects/project.png",
+    "description": "Analyzed image processing workflows and machine learning pipelines, resulting in a 15% improvement in classification accuracy to distinguish CycleGAN-generated images from real images with 96% accuracy using TensorFlow and PyTorch. Designed a data augmentation strategy that reduced overfitting by 25% and boosted precision by 20% through hyperparameter tuning and transfer learning.",
+    "skills": ["Python", "TensorFlow", "PyTorch", "GANs", "CycleGAN", "Image Processing", "Machine Learning", "Deep Learning", "Data Augmentation"],
+    "Source": "https://docs.google.com/document/d/1RWR1SlMSbQPasykQruOmoa8N7rEpASbk/edit?usp=sharing&ouid=114034967777545923335&rtpof=true&sd=true"
+  },
+  {
+    "title": "Music Recommendation System (NYU Bootcamp - Best Project Award)",
+    "imageSrc": "projects/project.png",
+    "description": "Developed an AI-driven music recommendation system providing personalized song suggestions. Implemented KNN, K-Means, Fuzzy Wuzzy string matching, and LIME for model interpretability. Involved data preprocessing with Pandas & NumPy, feature engineering, and building an interactive API. Awarded Best Project Presentation at NYU Data Science Bootcamp.",
+    "skills": ["Python", "Pandas", "NumPy", "Scikit-learn", "KNN", "K-Means", "FuzzyWuzzy", "LIME", "Machine Learning", "API Development"],
+    "Source": "https://github.com/Akkey01/Music-Recommendation-System"
+  },
+  {
+    "title": "NYC Open Data Analysis",
+    "imageSrc": "projects/project.png",
+    "description": "Performed exploratory data analysis on Brooklyn Bridge pedestrian trends and Manhattan tree data, uncovering seasonal patterns and environmental impacts. Engineered a linear regression model to predict daily pedestrian volume based on climate variables, improving forecasting accuracy by 15%. Developed interactive visualizations using Matplotlib, Seaborn, and Folium.",
+    "skills": ["Python", "Pandas", "NumPy", "Scikit-Learn", "Matplotlib", "Seaborn", "Folium", "Linear Regression", "Exploratory Data Analysis"],
+    "Source": "https://github.com/Akkey01/NYC-Tree-and-Pedestrian-Analysis"
+  },
+  {
+    "title": "Dashboards: Analyzing Employee Trends & Call Center Data",
+    "imageSrc": "projects/project.png",
+    "description": "Developed interactive dashboards for analyzing employee trends and call center data, providing actionable insights for decision-making and performance monitoring.",
+    "skills": ["Tableau", "Power BI", "SQL", "Data Visualization", "Excel"],
+    "Source": "https://github.com/Akkey01/Tableau-Projects"
+  }
+]
