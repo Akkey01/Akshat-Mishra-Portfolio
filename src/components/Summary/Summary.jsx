@@ -22,7 +22,7 @@ export default function Summary() {
         <div className={styles.BtnsContainer}>
           <a
             className={styles.Btns}
-            href="/Akshat_Mishra_Resume_Data_Science.pdf"
+            href="/Resume_Akshat_Mishra.pdf"
             download
           >
             View My Resume
